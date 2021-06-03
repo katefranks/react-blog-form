@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-blog-form/static/css/main.3bc1b44c.chunk.css",
+    "main.js": "/react-blog-form/static/js/main.c2342a8c.chunk.js",
+    "main.js.map": "/react-blog-form/static/js/main.c2342a8c.chunk.js.map",
+    "runtime-main.js": "/react-blog-form/static/js/runtime-main.4fbdcd01.js",
+    "runtime-main.js.map": "/react-blog-form/static/js/runtime-main.4fbdcd01.js.map",
+    "static/js/2.c4d59267.chunk.js": "/react-blog-form/static/js/2.c4d59267.chunk.js",
+    "static/js/2.c4d59267.chunk.js.map": "/react-blog-form/static/js/2.c4d59267.chunk.js.map",
+    "static/js/3.d73c33f8.chunk.js": "/react-blog-form/static/js/3.d73c33f8.chunk.js",
+    "static/js/3.d73c33f8.chunk.js.map": "/react-blog-form/static/js/3.d73c33f8.chunk.js.map",
+    "index.html": "/react-blog-form/index.html",
+    "static/css/main.3bc1b44c.chunk.css.map": "/react-blog-form/static/css/main.3bc1b44c.chunk.css.map",
+    "static/js/2.c4d59267.chunk.js.LICENSE.txt": "/react-blog-form/static/js/2.c4d59267.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fbdcd01.js",
+    "static/js/2.c4d59267.chunk.js",
+    "static/css/main.3bc1b44c.chunk.css",
+    "static/js/main.c2342a8c.chunk.js"
+  ]
+}
